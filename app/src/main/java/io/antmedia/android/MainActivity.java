@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
     /**
      * PLEASE WRITE RTMP BASE URL of the your RTMP SERVER.
      */
-
+//
     public static final String RTMP_BASE_URL = "rtmp://myserver uri/LiveApp/";
 
     @Override
