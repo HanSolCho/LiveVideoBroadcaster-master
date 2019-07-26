@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
     /**
      * PLEASE WRITE RTMP BASE URL of the your RTMP SERVER.
      */
-    public static final String RTMP_BASE_URL = "rtmp://cho1719.vps.phps.kr/LiveApp/";
+
 //    public static final String RTMP_BASE_URL = "rtmp://115.71.237.207/LiveApp/";
 
     @Override
